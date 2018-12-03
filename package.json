@@ -8,7 +8,7 @@
 		"hetzt",
 		"afd"
 	],
-	"license": "ISC",
+	"license": "MIT",
 	"author": "Maurice Conrad",
 	"main": "main.js",
 	"scripts": {
